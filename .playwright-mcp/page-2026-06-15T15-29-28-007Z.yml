@@ -1,0 +1,128 @@
+- generic [active] [ref=e1]:
+  - table [ref=e2]:
+    - rowgroup [ref=e3]:
+      - 'row "Adactin Group Adactin Group: Hotel Reservation System" [ref=e4]':
+        - cell "Adactin Group" [ref=e5]:
+          - img "Adactin Group" [ref=e6]
+        - 'cell "Adactin Group: Hotel Reservation System" [ref=e7]':
+          - 'img "Adactin Group: Hotel Reservation System" [ref=e8]'
+      - row [ref=e9]:
+        - cell [ref=e10]
+  - table [ref=e11]:
+    - rowgroup [ref=e12]:
+      - row "New User Registration Form (Fields marked with Red asterix (*) are mandatory) Go back to Login page Username* Password* Confirm Password* Full Name* Email Address* Captcha Image Refresh Captcha Captcha Text* Terms/Conditions* I agree to Terms & Conditions Register Reset Adactin Hotel Mobile App DOWNLOAD the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS. HotelApp Web Services Access Hotel App SOAP and Rest Services to learn web services testing. Click to know more. Sample TestCases DOWNLOAD a complete set of readymade sample TEST CASES for this application. Enjoy automation! Known Defects DOWNLOAD list of known defects for this application. Book on Automation About Adactin Get solutions for all your testing needs. Visit www.adactin.com today!" [ref=e13]:
+        - cell "New User Registration Form (Fields marked with Red asterix (*) are mandatory) Go back to Login page Username* Password* Confirm Password* Full Name* Email Address* Captcha Image Refresh Captcha Captcha Text* Terms/Conditions* I agree to Terms & Conditions Register Reset" [ref=e14]:
+          - table [ref=e16]:
+            - rowgroup [ref=e17]:
+              - row "New User Registration Form (Fields marked with Red asterix (*) are mandatory) Go back to Login page" [ref=e18]:
+                - cell "New User Registration Form (Fields marked with Red asterix (*) are mandatory) Go back to Login page" [ref=e19]:
+                  - table [ref=e20]:
+                    - rowgroup [ref=e21]:
+                      - row "New User Registration Form (Fields marked with Red asterix (*) are mandatory) Go back to Login page" [ref=e22]:
+                        - cell "New User Registration Form (Fields marked with Red asterix (*) are mandatory)" [ref=e23]
+                        - cell "Go back to Login page" [ref=e24]:
+                          - link "Go back to Login page" [ref=e25] [cursor=pointer]:
+                            - /url: index.php
+              - row "Username*" [ref=e26]:
+                - cell "Username*" [ref=e27]
+                - cell [ref=e28]:
+                  - textbox [ref=e29]
+              - row "Password*" [ref=e30]:
+                - cell "Password*" [ref=e31]
+                - cell [ref=e32]:
+                  - textbox [ref=e33]
+              - row "Confirm Password*" [ref=e34]:
+                - cell "Confirm Password*" [ref=e35]
+                - cell [ref=e36]:
+                  - textbox [ref=e37]
+              - row "Full Name*" [ref=e38]:
+                - cell "Full Name*" [ref=e39]
+                - cell [ref=e40]:
+                  - textbox [ref=e41]
+              - row "Email Address*" [ref=e42]:
+                - cell "Email Address*" [ref=e43]
+                - cell [ref=e44]:
+                  - textbox [ref=e45]
+              - row "Captcha Image Refresh Captcha" [ref=e46]:
+                - cell "Captcha Image" [ref=e47]
+                - cell "Refresh Captcha" [ref=e48]:
+                  - table [ref=e49]:
+                    - rowgroup [ref=e50]:
+                      - row "Refresh Captcha" [ref=e51]:
+                        - cell [ref=e52]:
+                          - img [ref=e53]
+                        - cell "Refresh Captcha" [ref=e54]:
+                          - link "Refresh Captcha" [ref=e55] [cursor=pointer]:
+                            - /url: "#"
+                            - img "Refresh Captcha" [ref=e56]
+              - row "Captcha Text*" [ref=e57]:
+                - cell "Captcha Text*" [ref=e58]
+                - cell [ref=e59]:
+                  - textbox [ref=e60]
+              - row "Terms/Conditions* I agree to Terms & Conditions" [ref=e61]:
+                - cell "Terms/Conditions*" [ref=e62]
+                - cell "I agree to Terms & Conditions" [ref=e63]:
+                  - table [ref=e64]:
+                    - rowgroup [ref=e65]:
+                      - row "I agree to Terms & Conditions" [ref=e66]:
+                        - cell "I agree to Terms & Conditions" [ref=e67]:
+                          - checkbox [ref=e68]
+                          - text: I agree to
+                          - link "Terms & Conditions" [ref=e69] [cursor=pointer]:
+                            - /url: http://www.adactin.com/HotelApp/TermsConditions.html
+                        - cell [ref=e70]
+              - row "Register Reset" [ref=e71]:
+                - cell [ref=e72]
+                - cell "Register Reset" [ref=e73]:
+                  - button "Register" [ref=e74]
+                  - button "Reset" [ref=e75]
+        - cell "Adactin Hotel Mobile App DOWNLOAD the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS. HotelApp Web Services Access Hotel App SOAP and Rest Services to learn web services testing. Click to know more. Sample TestCases DOWNLOAD a complete set of readymade sample TEST CASES for this application. Enjoy automation! Known Defects DOWNLOAD list of known defects for this application. Book on Automation About Adactin Get solutions for all your testing needs. Visit www.adactin.com today!" [ref=e76]:
+          - table [ref=e77]:
+            - rowgroup [ref=e78]:
+              - row "Adactin Hotel Mobile App DOWNLOAD the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS." [ref=e79]:
+                - cell "Adactin Hotel Mobile App DOWNLOAD the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS." [ref=e80]:
+                  - heading "Adactin Hotel Mobile App" [level=4] [ref=e81]
+                  - link "DOWNLOAD" [ref=e82] [cursor=pointer]:
+                    - /url: https://adactinhotelapp.com/resources/AdactinHotelApp_SetupGuide.pdf
+                  - text: the Hotel Mobile App and extend your experience. Click to know more about how to get the app on Android or IOS.
+              - row "HotelApp Web Services Access Hotel App SOAP and Rest Services to learn web services testing. Click to know more." [ref=e83]:
+                - cell "HotelApp Web Services Access Hotel App SOAP and Rest Services to learn web services testing. Click to know more." [ref=e84]:
+                  - heading "HotelApp Web Services" [level=4] [ref=e85]
+                  - text: Access Hotel App SOAP and Rest Services to learn web services testing.
+                  - link "Click" [ref=e86] [cursor=pointer]:
+                    - /url: https://adactinhotelapp.com/HotelAdactinWebServices/
+                  - text: to know more.
+              - row "Sample TestCases DOWNLOAD a complete set of readymade sample TEST CASES for this application. Enjoy automation!" [ref=e87]:
+                - cell "Sample TestCases DOWNLOAD a complete set of readymade sample TEST CASES for this application. Enjoy automation!" [ref=e88]:
+                  - heading "Sample TestCases" [level=4] [ref=e89]
+                  - link "DOWNLOAD" [ref=e90] [cursor=pointer]:
+                    - /url: http://adactinhotelapp.com/resources/Sample-TestCases_HotelApplication.pdf
+                  - text: a complete set of readymade sample TEST CASES for this application. Enjoy automation!
+              - row "Known Defects DOWNLOAD list of known defects for this application." [ref=e91]:
+                - cell "Known Defects DOWNLOAD list of known defects for this application." [ref=e92]:
+                  - heading "Known Defects" [level=4] [ref=e93]
+                  - link "DOWNLOAD" [ref=e94] [cursor=pointer]:
+                    - /url: http://adactinhotelapp.com/resources/KnownDefects_HotelApp.pdf
+                  - text: list of known defects for this application.
+              - row "Book on Automation" [ref=e95]:
+                - cell "Book on Automation" [ref=e96]:
+                  - heading "Book on Automation" [level=4] [ref=e97]
+                  - iframe [ref=e98]:
+                    
+              - row "About Adactin Get solutions for all your testing needs. Visit www.adactin.com today!" [ref=e99]:
+                - cell "About Adactin Get solutions for all your testing needs. Visit www.adactin.com today!" [ref=e100]:
+                  - heading "About Adactin" [level=4] [ref=e101]
+                  - text: Get solutions for all your testing needs. Visit
+                  - link "www.adactin.com" [ref=e102] [cursor=pointer]:
+                    - /url: http://www.adactin.com
+                  - text: today!
+  - table [ref=e103]:
+    - rowgroup [ref=e104]:
+      - row [ref=e105]:
+        - cell [ref=e106]
+      - row "© 2026 - Adactin.com. All Rights Reserved. Adactin Group Pty. Ltd." [ref=e107]:
+        - cell "© 2026 - Adactin.com. All Rights Reserved. Adactin Group Pty. Ltd." [ref=e108]:
+          - text: © 2026 -
+          - link "Adactin.com" [ref=e109] [cursor=pointer]:
+            - /url: http://www.adactin.com
+          - text: . All Rights Reserved. Adactin Group Pty. Ltd.
